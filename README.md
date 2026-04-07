@@ -6,14 +6,15 @@
 [https://jnwang.github.io/violin-note-hero/](https://jnwang.github.io/violin-note-hero/)
 
 当前默认首页：
-`violin3.html`
+`violin4.html`
 
 ## 文件说明
 
 - `index.html`：站点入口，默认跳转到 `violin2.html`
 - `violin.html`：第一版页面
 - `violin2.html`：第二版页面
-- `violin3.html`：当前默认展示版本
+- `violin3.html`：第三版页面
+- `violin4.html`：当前默认展示版本
 - `styles.css`：本地打包后的样式文件
 - `input.css`：Tailwind 样式入口
 
