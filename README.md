@@ -37,7 +37,3 @@ npm install
 [https://github.com/jnwang/violin-note-hero](https://github.com/jnwang/violin-note-hero)
 
 提交并推送到 `main` 分支后，GitHub Pages 会自动更新。
-
-## 说明
-
-为了提升中国访问稳定性，页面已去掉 Google Fonts 和 Tailwind CDN 外链，改为本地静态资源。
